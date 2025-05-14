@@ -1,0 +1,7 @@
+https://github.com/aws-samples/istio-on-eks
+
+
+
+istio operator 
+istio remote secret - exchange between the two clusters
+https://www.youtube.com/watch?v=XW10IpsTmH8 - what can go wrong in istio service mesh 
